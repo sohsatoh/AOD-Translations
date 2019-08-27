@@ -1,0 +1,28 @@
+{
+"Enable" = "有効化";
+"Some changes require to respring" = "いくつかの設定でRespringが必要です";
+"Options" = "オプション";
+"Enable LPM while showing" = "低電力モードを有効可";
+"Disable while DND" = "おやすみモード中は無効化";
+"Disable while in Pocket" = "ポケットにある時無効化";
+"Double tap to unlock" = "ダブルタップでアンロック";
+"Visual Options" = "Visual Options";
+"Show battery level" = "バッテリー残量を表示";
+"Show now playing label" = "再生情報を表示";
+"Icon Fade Animation" = "アイコンのアニメーション";
+"Grayscale Icon"  = "白黒アイコン";
+"Change Icon Size" = "アイコンサイズを変更";
+"Change space between icons" = "アイコン間のスペースを変更";
+"Move Labels" = "要素の移動";
+"Brightness" = "明るさ";
+"Report Bugs or Contact" = "連絡先";
+"Buy me a coffee?" = "寄付は大歓迎です!";
+"Paypal" = "Paypal";
+"Respring" = "Respring";
+"Reset All Settings" = "すべての設定をリセット";
+"Disable while charging" = "充電中は無効化";
+"Max Icon Per Rows" = "列ごとのアイコン数";
+"Move Notification View" = "アイコンを移動";
+"Artwork Size" = "アートワークのサイズ";
+"Show Artwork" = "アートワークを表示";
+}

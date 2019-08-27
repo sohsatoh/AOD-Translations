@@ -1,0 +1,28 @@
+{
+"Enable" = "Enable";
+"Some changes require to respring" = "Some changes require to respring";
+"Options" = "Options";
+"Enable LPM while showing" = "Enable LPM while showing";
+"Disable while DND" = "Disable while DND";
+"Disable while in Pocket" = "Disable while in Pocket";
+"Double tap to unlock" = "Double tap to unlock";
+"Visual Options" = "Visual Options";
+"Show battery level" = "Show battery level";
+"Show now playing label" = "Show now playing label";
+"Icon Fade Animation" = "Icon Fade Animation";
+"Grayscale Icon"  = "Grayscale Icon";
+"Change Icon Size" = "Change Icon Size";
+"Change space between icons" = "Change space between icons";
+"Move Labels" = "Move Labels";
+"Brightness" = "Brightness";
+"Report Bugs or Contact" = "Report Bugs or Contact";
+"Buy me a coffee?" = "Buy me a coffee?";
+"Paypal" = "Paypal";
+"Respring" = "Respring";
+"Reset All Settings" = "Reset All Settings";
+"Disable while charging" = "Disable while charging";
+"Max Icon Per Rows" = "Max Icon Per Rows";
+"Move Notification View" = "Move Notification View";
+"Artwork Size" = "Artwork Size";
+"Show Artwork" = "Show Artwork";
+}
