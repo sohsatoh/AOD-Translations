@@ -1,0 +1,28 @@
+{
+"Enable" = "Aktivieren";
+"Some changes require to respring" = "Einige Änderungen erfordern ein Respring";
+"Options" = "Optionen";
+"Enable LPM while showing" = "Aktiviere LPM beim Benutzen";
+"Disable while DND" = "Deaktiviert während DND";
+"Disable while in Pocket" = "Deaktivieren, während in der Tasche";
+"Double tap to unlock" = "Zum Entsperren zweimal tippen";
+"Visual Options" = "Visuelle Optionen";
+"Show battery level" = "Batteriestand anzeigen";
+"Show now playing label" = "Zeige aktuell abgespieltes Lied";
+"Icon Fade Animation" = "Icon Fade Animation";
+"Grayscale Icon"  = "Graustufen Icon";
+"Change Icon Size" = "Ändern Sie die Symbolgröße";
+"Change space between icons" = "Ändern Sie den Abstand zwischen den Symbolen";
+"Move Labels" = "Beschriftungen verschieben";
+"Brightness" = "Helligkeit";
+"Report Bugs or Contact" = "Melde Fehler oder kontaktiere mich";
+"Buy me a coffee?" = "Kaufen du mir ein Kaffee?";
+"Paypal" = "Paypal";
+"Respring" = "Respring";
+"Reset All Settings" = "Alle Einstellungen zurücksetzen";
+"Disable while charging" = "Während des Ladevorgangs deaktivieren";
+"Max Icon Per Rows" = "Maximale Symbole pro Zeile";
+"Move Notification View" = "Benachrichtigungsansicht verschieben";
+"Artwork Size" = "Album Cover Größe";
+"Show Artwork" = "Zeige Album Cover";
+}
