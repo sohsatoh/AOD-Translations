@@ -1,3 +1,4 @@
+{
 "Artwork Size"="Arka Plan Resim Boyutu";
 "Brightness"="Parlaklık";
 "Buy me a coffee?"="Bana Kahve Ismarlamak istermisin?";
@@ -24,3 +25,6 @@
 "Show now playing label"="Oynatılıyor Yazısını Göster";
 "Some changes require to respring"="Bazı Değişiklikler Yeniden Başlatma Gerektirir";
 "Visual Options"="Görsel Seçenekler";
+"Date" = "Tarih";
+"Use Native Locale" = "Yerel Yerel Ayar Kullan";
+}

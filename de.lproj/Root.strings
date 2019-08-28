@@ -25,4 +25,6 @@
 "Move Notification View" = "Benachrichtigungsansicht verschieben";
 "Artwork Size" = "Album Cover Größe";
 "Show Artwork" = "Zeige Album Cover";
+"Date" = "Datum";
+"Use Native Locale" = "Verwenden Sie das native Gebietsschema";
 }

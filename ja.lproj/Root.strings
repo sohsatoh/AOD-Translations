@@ -25,4 +25,7 @@
 "Move Notification View" = "アイコンを移動";
 "Artwork Size" = "アートワークのサイズ";
 "Show Artwork" = "アートワークを表示";
+"Date" = "日付";
+"Use Native Locale" = "デフォルトの言語を使用";
+"Change Date Format" = "日付表示を変更";
 }

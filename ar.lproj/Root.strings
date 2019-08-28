@@ -25,4 +25,6 @@
 "Move Notification View" = "نقل عرض الإعلام";
 "Artwork Size" = "حجم العمل الفني";
 "Show Artwork" = "عرض العمل الفني";
+"Date" = "تاريخ";
+"Use Native Locale" = "استخدام اللغة الأم";
 }
