@@ -25,7 +25,9 @@
 "Move Notification View" = "アイコンを移動";
 "Artwork Size" = "アートワークのサイズ";
 "Show Artwork" = "アートワークを表示";
-"Date" = "日付";
+"Date and Time" = "日付と時間";
 "Use Native Locale" = "デフォルトの言語を使用";
 "Change Date Format" = "日付表示を変更";
+"Use AM/PM" = "AM/PM表記";
+"Enable only while charging" = "充電中のみ有効";
 }

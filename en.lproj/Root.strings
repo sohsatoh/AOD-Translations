@@ -25,7 +25,9 @@
 "Move Notification View" = "Move Notification View";
 "Artwork Size" = "Artwork Size";
 "Show Artwork" = "Show Artwork";
-"Date" = "Date";
+"Date and Time" = "Date and Time";
 "Use Native Locale" = "Use Native Locale";
 "Change Date Format" = "Change Date Format";
+"Use AM/PM" = "Use AM/PM";
+"Enable only while charging" = "Enable only while charging";
 }
