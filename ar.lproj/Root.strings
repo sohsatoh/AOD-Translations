@@ -1,0 +1,28 @@
+{
+"Enable" = "مكن";
+"Some changes require to respring" = "بعض التغييرات تتطلب respring";
+"Options" = "خيارات";
+"Enable LPM while showing" = "تمكين LPM أثناء العرض";
+"Disable while DND" = "تعطيل بينما DND";
+"Disable while in Pocket" = "تعطيل بينما في الجيب";
+"Double tap to unlock" = "انقر نقرا مزدوجا لفتح";
+"Visual Options" = "الخيارات البصرية";
+"Show battery level" = "عرض مستوى البطارية";
+"Show now playing label" = "تظهر الآن اللعب التسمية";
+"Icon Fade Animation" = "أيقونة تتلاشى الرسوم المتحركة";
+"Grayscale Icon"  = "أيقونة تدرج الرمادي";
+"Change Icon Size" = "تغيير حجم الرمز";
+"Change space between icons" = "تغيير المسافة بين الرموز";
+"Move Labels" = "نقل التسميات";
+"Brightness" = "سطوع";
+"Report Bugs or Contact" = "تقرير البق أو الاتصال";
+"Buy me a coffee?" = "شراء لي القهوة؟";
+"Paypal" = "باي بال";
+"Respring" = "Respring";
+"Reset All Settings" = "امسح كل الاعدادت";
+"Disable while charging" = "تعطيل أثناء الشحن";
+"Max Icon Per Rows" = "ماكس أيقونة لكل الصفوف";
+"Move Notification View" = "نقل عرض الإعلام";
+"Artwork Size" = "حجم العمل الفني";
+"Show Artwork" = "عرض العمل الفني";
+}
