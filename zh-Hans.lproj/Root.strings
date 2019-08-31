@@ -1,0 +1,30 @@
+{
+  "Enable" = "激活";
+  "Some changes require to respring" = "一些变化需要respring";
+"Options"="选项";
+"Enable LPM while showing" = "显示时激活省电模式";
+"Disable while DND" = "勿扰模式下禁用";
+"Disable while in Pocket" = "在口袋里时禁用";
+"Double tap to unlock" = "双击可解锁";
+"Visual Options" = "视觉选项";
+"Show battery level" = "显示电池电量";
+"Show now playing label" = "显示'正在播放'标签";
+"Icon Fade Animation" = "图标渐变动画";
+"Grayscale Icon"  = "灰度图标";
+"Change Icon Size" = "更改图标大小"
+"Change space between icons" = "更改图标之间的间距" ;
+"Move Labels" = "移动标签位置";
+"Brightness" = "亮度";
+"Report Bugs or Contact" = "报告Bug或联系";
+"Buy me a coffee?" = "给开发人员打赏";
+"Paypal" = "Paypal";
+"Respring" = "注销重启桌面";
+"Reset All Settings" = "恢复出厂设置";
+"Disable while charging" = "充电时禁用";
+"Max Icon Per Rows" = "每行最多图标个数";
+"Move Notification View" = "移动通知视图的位置";
+"Artwork Size" = "相册尺寸";
+"Show Artwork" = "展示相册";
+"Date" = "日期";
+"Use Native Locale" = "使用本地区域设置";
+}
