@@ -1,0 +1,44 @@
+{
+"Enable" = "有効化";
+"Some changes require to respring" = "いくつかの設定でRespringが必要です";
+"Options" = "オプション";
+"Enable LPM while showing" = "低電力モードを有効可";
+"Disable while DND" = "おやすみモード中は無効化";
+"Disable while in Pocket" = "ポケットにある時無効化";
+"Tap to unlock" = "タップでアンロック";
+"Visual Options" = "Visual Options";
+"Show battery level" = "バッテリー残量を表示";
+"Show now playing label" = "再生情報を表示";
+"Icon Fade Animation" = "アイコンのアニメーション";
+"Grayscale Icon"  = "白黒アイコン";
+"Change Icon Size" = "アイコンサイズを変更";
+"Change space between icons" = "アイコン間のスペースを変更";
+"Move Labels" = "要素の移動";
+"Brightness" = "明るさ";
+"Report Bugs or Contact" = "連絡先";
+"Buy me a coffee?" = "寄付は大歓迎です!";
+"Paypal" = "Paypal";
+"Respring" = "Respring";
+"Reset All Settings" = "すべての設定をリセット";
+"Disable while charging" = "充電中は無効化";
+"Max Icon Per Rows" = "列ごとのアイコン数";
+"Move Notification View" = "アイコンを移動";
+"Artwork Size" = "アートワークのサイズ";
+"Show Artwork" = "アートワークを表示";
+"Date and Time" = "日付と時間";
+"Use Native Locale" = "デフォルトの言語を使用";
+"Change Date Format" = "日付表示を変更";
+"Use AM/PM" = "AM/PM表記";
+"Enable only while charging" = "充電中のみ有効";
+<<<<<<< HEAD
+"Label Color and Alpha" = "文字色を変更";
+"Show Date" = "日付を表示";
+"Show Analog Clock" = "アナログ時計を表示";
+"Analog Clock Position (X)" = "アナログ時計の横位置";
+"Analog Clock Position (Y)" = "アナログ時計の縦位置";
+"Analog Clock Size" = "アナログ時計のサイズ";
+"Set Brightness" = "明るさを設定";
+=======
+"Label Color and Alpha" = "文字色を変更"
+>>>>>>> be96a2c38f0e04d733472206e51c2b65b8af539e
+}
