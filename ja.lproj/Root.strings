@@ -5,7 +5,7 @@
 "Enable LPM while showing" = "低電力モードを有効可";
 "Disable while DND" = "おやすみモード中は無効化";
 "Disable while in Pocket" = "ポケットにある時無効化";
-"Double tap to unlock" = "ダブルタップでアンロック";
+"Tap to unlock" = "タップでアンロック";
 "Visual Options" = "Visual Options";
 "Show battery level" = "バッテリー残量を表示";
 "Show now playing label" = "再生情報を表示";
@@ -30,4 +30,11 @@
 "Change Date Format" = "日付表示を変更";
 "Use AM/PM" = "AM/PM表記";
 "Enable only while charging" = "充電中のみ有効";
+"Label Color and Alpha" = "文字色を変更";
+"Show Date" = "日付を表示";
+"Show Analog Clock" = "アナログ時計を表示";
+"Analog Clock Position (X)" = "アナログ時計の横位置";
+"Analog Clock Position (Y)" = "アナログ時計の縦位置";
+"Analog Clock Size" = "アナログ時計のサイズ";
+"Set Brightness" = "明るさを設定";
 }

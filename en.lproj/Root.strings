@@ -5,7 +5,7 @@
 "Enable LPM while showing" = "Enable LPM while showing";
 "Disable while DND" = "Disable while DND";
 "Disable while in Pocket" = "Disable while in Pocket";
-"Double tap to unlock" = "Double tap to unlock";
+"Tap to unlock" = "Tap to unlock";
 "Visual Options" = "Visual Options";
 "Show battery level" = "Show battery level";
 "Show now playing label" = "Show now playing label";
@@ -30,4 +30,11 @@
 "Change Date Format" = "Change Date Format";
 "Use AM/PM" = "Use AM/PM";
 "Enable only while charging" = "Enable only while charging";
+"Label Color and Alpha" = "Label Color and Alpha";
+"Show Date" = "Show Date";
+"Show Analog Clock" = "Show Analog Clock";
+"Analog Clock Position (X)" = "Analog Clock Position (X)";
+"Analog Clock Position (Y)" = "Analog Clock Position (Y)";
+"Analog Clock Size" = "Analog Clock Size";
+"Set Brightness" = "Set Brightness";
 }
