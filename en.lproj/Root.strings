@@ -31,13 +31,10 @@
 "Use AM/PM" = "Use AM/PM";
 "Enable only while charging" = "Enable only while charging";
 "Label Color and Alpha" = "Label Color and Alpha";
-<<<<<<< HEAD
 "Show Date" = "Show Date";
 "Show Analog Clock" = "Show Analog Clock";
 "Analog Clock Position (X)" = "Analog Clock Position (X)";
 "Analog Clock Position (Y)" = "Analog Clock Position (Y)";
 "Analog Clock Size" = "Analog Clock Size";
 "Set Brightness" = "Set Brightness";
-=======
->>>>>>> be96a2c38f0e04d733472206e51c2b65b8af539e
 }
