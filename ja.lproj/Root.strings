@@ -38,4 +38,8 @@
 "Analog Clock Size" = "アナログ時計のサイズ";
 "Set Brightness" = "明るさを設定";
 "Label Color and Alpha" = "文字色を変更";
+"Dismiss Timer" = "指定分数後に非表示";
+"Show Icon Badge" = "アイコンバッジを表示";
+"Use Icon Color" = "アイコンの色を使用";
+"Reverse Color" = "色を反対に使用";
 }
