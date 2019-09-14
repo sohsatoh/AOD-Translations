@@ -42,4 +42,22 @@
 "Show Icon Badge" = "アイコンバッジを表示";
 "Use Icon Color" = "アイコンの色を使用";
 "Reverse Color" = "色を反対に使用";
+"Charging Animation" = "充電アニメーション";
+"Show Animation" = "アニメーションを表示";
+"Bubble Color" = "色を設定";
+"Battery" = "バッテリー";
+"Date Format" = "日付フォーマット";
+"Music" = "音楽";
+"Artwork Position (X)" = "アートワーク位置 (X)";
+"Artwork Position (Y)" = "アートワーク位置 (Y)";
+"Icon" = "アイコン";
+"Allow put the same icon" = "同じアイコンの配置を許可";
+"Icon Badge" = "アイコンバッジ";
+"Weather" = "天気";
+"Show" = "表示";
+"Label Position (Y)" = "ラベル位置 (Y)";
+"Save" = "保存";
+"Move Elements" = "要素移動";
+"Others" = "その他";
+"HOWTOUSE" = "利用可能: {city}, {condition}, {windSpeed}, {humidity}, {temp}, {feelsLike}, {high}, {low} \n \\nで改行";
 }

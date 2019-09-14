@@ -7,8 +7,8 @@
 "Disable while in Pocket" = "Disable while in Pocket";
 "Tap to unlock" = "Tap to unlock";
 "Visual Options" = "Visual Options";
-"Show battery level" = "Show battery level";
-"Show now playing label" = "Show now playing label";
+"Show battery level" = "Show Battery Level";
+"Show now playing label" = "Show Now Playing Label";
 "Icon Fade Animation" = "Icon Fade Animation";
 "Grayscale Icon"  = "Grayscale Icon";
 "Change Icon Size" = "Change Icon Size";
@@ -42,4 +42,22 @@
 "Show Icon Badge" = "Show Icon Badge";
 "Use Icon Color" = "Use Icon Color";
 "Reverse Color" = "Reverse Color";
+"Charging Animation" = "Charging Animation";
+"Show Animation" = "Show Animation";
+"Bubble Color" = "Bubble Color";
+"Battery" = "Battery";
+"Date Format" = "Date Format";
+"Music" = "Music";
+"Artwork Position (X)" = "Artwork Position (X)";
+"Artwork Position (Y)" = "Artwork Position (Y)";
+"Icon" = "Icon";
+"Allow put the same icon" = "Allow put the same icon";
+"Icon Badge" = "Icon Badge";
+"Weather" = "Weather";
+"Show" = "Show";
+"Label Position (Y)" = "Label Position (Y)";
+"Save" = "Save";
+"Move Elements" = "Move Elements";
+"Others" = "Others";
+"HOWTOUSE" = "Available: {city}, {condition}, {windSpeed}, {humidity}, {temp}, {feelsLike}, {high}, {low} \n \\n to line break";
 }
