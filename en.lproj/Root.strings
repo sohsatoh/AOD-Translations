@@ -59,6 +59,6 @@
 "Save" = "Save";
 "Move Elements" = "Move Elements";
 "Others" = "Others";
-"HOWTOUSE" = "Available: {city}, {condition}, {windSpeed}, {humidity}, {temp}, {feelsLike}, {high}, {low} \n \\n to line break";
+"HOWTOUSE" = "Available: {city}, {condition}, {windSpeed}, {humidity}, {temp}, {feelsLike}, {high}, {low} \n \\n to line break\nIf it shows 'null', you may have to enable location service for system and weather app, and setting from weather app.";
 "Fahrenheit" = "Fahrenheit";
 }

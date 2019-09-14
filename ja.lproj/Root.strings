@@ -59,6 +59,6 @@
 "Save" = "保存";
 "Move Elements" = "要素移動";
 "Others" = "その他";
-"HOWTOUSE" = "利用可能: {city}, {condition}, {windSpeed}, {humidity}, {temp}, {feelsLike}, {high}, {low} \n \\nで改行";
+"HOWTOUSE" = "利用可能: {city}, {condition}, {windSpeed}, {humidity}, {temp}, {feelsLike}, {high}, {low} \n \\nで改行\nもし'null'と表示される場合は、インターネットへの接続や現在地情報の設定、天気アプリで現在地の利用を許可しているかなど確認してください。";
 "Fahrenheit" = "華氏";
 }
