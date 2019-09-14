@@ -60,4 +60,5 @@
 "Move Elements" = "Move Elements";
 "Others" = "Others";
 "HOWTOUSE" = "Available: {city}, {condition}, {windSpeed}, {humidity}, {temp}, {feelsLike}, {high}, {low} \n \\n to line break";
+"Fahrenheit" = "Fahrenheit";
 }

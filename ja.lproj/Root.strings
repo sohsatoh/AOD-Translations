@@ -60,4 +60,5 @@
 "Move Elements" = "要素移動";
 "Others" = "その他";
 "HOWTOUSE" = "利用可能: {city}, {condition}, {windSpeed}, {humidity}, {temp}, {feelsLike}, {high}, {low} \n \\nで改行";
+"Fahrenheit" = "華氏";
 }
