@@ -8,7 +8,7 @@
 "Tap to unlock" = "タップでアンロック";
 "Visual Options" = "Visual Options";
 "Show battery level" = "バッテリー残量を表示";
-"Show now playing label" = "再生情報を表示";
+"Show Now Playing Label" = "再生情報を表示";
 "Icon Fade Animation" = "アイコンのアニメーション";
 "Grayscale Icon"  = "白黒アイコン";
 "Change Icon Size" = "アイコンサイズを変更";
@@ -50,8 +50,8 @@
 "Music" = "音楽";
 "Artwork Position (X)" = "アートワーク位置 (X)";
 "Artwork Position (Y)" = "アートワーク位置 (Y)";
-"Icon" = "アイコン";
-"Allow put the same icon" = "同じアイコンの配置を許可";
+"Icons" = "アイコン";
+"Allow Putting the Same Icon" = "同じアイコンの配置を許可";
 "Icon Badge" = "アイコンバッジ";
 "Weather" = "天気";
 "Show" = "表示";
@@ -59,6 +59,15 @@
 "Save" = "保存";
 "Move Elements" = "要素移動";
 "Others" = "その他";
-"HOWTOUSE" = "利用可能: {city}, {condition}, {windSpeed}, {humidity}, {temp}, {feelsLike}, {high}, {low} \n \\nで改行\nもし'null'と表示される場合は、インターネットへの接続や現在地情報の設定、天気アプリで現在地の利用を許可しているかなど確認してください。";
+"HOWTOUSE" = "利用可能: {city}, {condition}, {shortCondition}, {windSpeed}, {humidity}, {temp}, {feelsLike}, {high}, {low} \n \\nで改行\nもし'null'と表示される場合は、インターネットへの接続や現在地情報の設定、天気アプリで現在地の利用を許可しているかなど確認してください。";
 "Fahrenheit" = "華氏";
+"Hide When Low Battery" = "バッテリーに応じて無効";
+"Test Notification" = "通知のテスト";
+"Centralize Components" = "中央配置";
+"Show Time" = "時間を表示";
+"Show Dots" = "ドットを表示";
+"Show Notification Icons" = "アイコンを表示";
+"Size" = "サイズ";
+"Use Randomized Color" = "ランダムな色を使用"
+"Ignore While Charging" = "充電中は無視";
 }

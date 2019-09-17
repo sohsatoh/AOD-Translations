@@ -8,7 +8,7 @@
 "Tap to unlock" = "Tap to unlock";
 "Visual Options" = "Visual Options";
 "Show battery level" = "Show Battery Level";
-"Show now playing label" = "Show Now Playing Label";
+"Show Now Playing Label" = "Show Now Playing Label";
 "Icon Fade Animation" = "Icon Fade Animation";
 "Grayscale Icon"  = "Grayscale Icon";
 "Change Icon Size" = "Change Icon Size";
@@ -50,8 +50,8 @@
 "Music" = "Music";
 "Artwork Position (X)" = "Artwork Position (X)";
 "Artwork Position (Y)" = "Artwork Position (Y)";
-"Icon" = "Icon";
-"Allow put the same icon" = "Allow put the same icon";
+"Icons" = "Icons";
+"Allow Putting the Same Icon" = "Allow Putting the Same Icon";
 "Icon Badge" = "Icon Badge";
 "Weather" = "Weather";
 "Show" = "Show";
@@ -59,6 +59,15 @@
 "Save" = "Save";
 "Move Elements" = "Move Elements";
 "Others" = "Others";
-"HOWTOUSE" = "Available: {city}, {condition}, {windSpeed}, {humidity}, {temp}, {feelsLike}, {high}, {low} \n \\n to line break\nIf it shows 'null', you may have to enable location service for system and weather app, and setting from weather app.";
+"HOWTOUSE" = "Available: {city}, {condition}, {shortCondition}, {windSpeed}, {humidity}, {temp}, {feelsLike}, {high}, {low} \n \\n to line break\nIf it shows 'null', you may have to enable location service for system and weather app, and setting from weather app.";
 "Fahrenheit" = "Fahrenheit";
+"Hide When Low Battery" = "Hide When Low Battery";
+"Test Notification" = "Test Notification";
+"Centralize Components" = "Centralize Components";
+"Show Time" = "Show Time";
+"Show Dots" = "Show Dots";
+"Show Notification Icons" = "Show Notification Icons";
+"Size" = "Size";
+"Use Randomized Color" = "Use Randomized Color";
+"Ignore While Charging" = "Ignore While Charging";
 }
