@@ -30,14 +30,13 @@
 "Change Date Format" = "日付表示を変更";
 "Use AM/PM" = "AM/PM表記";
 "Enable only while charging" = "充電中のみ有効";
-"Label Color and Alpha" = "文字色を変更";
+"Label Color" = "文字色を変更";
 "Show Date" = "日付を表示";
 "Show Analog Clock" = "アナログ時計を表示";
 "Analog Clock Position (X)" = "アナログ時計の横位置";
 "Analog Clock Position (Y)" = "アナログ時計の縦位置";
 "Analog Clock Size" = "アナログ時計のサイズ";
 "Set Brightness" = "明るさを設定";
-"Label Color and Alpha" = "文字色を変更";
 "Dismiss Timer" = "指定分数後に非表示";
 "Show Icon Badge" = "アイコンバッジを表示";
 "Use Icon Color" = "アイコンの色を使用";
