@@ -1,0 +1,11 @@
+{
+    "Music" = "音楽";
+    "Show Now Playing Label" = "再生情報を表示";
+    "Label Position (Y)" = "ラベル位置 (Y)";
+
+    "Artwork" = "アートワーク";
+    "Show Artwork" = "アートワークを表示";
+    "Artwork Size" = "アートワークのサイズ";
+    "Artwork Position (X)" = "アートワーク位置 (X)";
+    "Artwork Position (Y)" = "アートワーク位置 (Y)";
+}

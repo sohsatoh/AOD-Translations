@@ -1,0 +1,10 @@
+{
+    "Icons" = "アイコン";
+    "Show Notification Icons" = "アイコンを表示";
+    "Icon Fade Animation" = "アイコンのアニメーション";
+    "Grayscale Icon"  = "白黒アイコン";
+    "Allow Putting the Same Icon" = "同じアイコンの配置を許可";
+    "Max Icon Per Rows" = "列ごとのアイコン数";
+    "Change Icon Size" = "アイコンサイズを変更";
+    "Change space between icons" = "アイコン間のスペースを変更";
+}

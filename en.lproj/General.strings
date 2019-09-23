@@ -1,0 +1,16 @@
+{
+"Options" = "Options";
+"Enable LPM while showing" = "Enable LPM while showing";
+"Disable while DND" = "Disable while DND";
+"Disable while in Pocket" = "Disable while in Pocket";
+"Enable only while charging" = "Enable only while charging";
+"Disable while charging" = "Disable while charging";
+
+"Brightness" = "Brightness";
+"Set Brightness" = "Set Brightness";
+
+"Others" = "Others";
+"Hide When Low Battery" = "Hide When Low Battery";
+"Dismiss Timer" = "Dismiss Timer";
+"Label Color" = "Label Color";
+}

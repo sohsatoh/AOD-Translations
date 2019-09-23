@@ -1,0 +1,7 @@
+{
+    "Weather" = "Weather";
+    "Show" = "Show";
+    "Label Position (Y)" = "Label Position (Y)";
+    "Save" = "Save";
+    "HOWTOUSE" = "Available: {city}, {condition}, {shortCondition}, {windSpeed}, {humidity}, {temp}, {feelsLike}, {high}, {low} \n \\n to line break\nIf it shows 'null', you may have to enable location service for system and weather app, and setting from weather app.";
+}

@@ -1,0 +1,16 @@
+{
+    "Options" = "オプション";
+    "Enable LPM while showing" = "低電力モードを有効可";
+    "Disable while DND" = "おやすみモード中は無効化";
+    "Disable while in Pocket" = "ポケットにある時無効化";
+    "Enable only while charging" = "充電中のみ有効";
+    "Disable while charging" = "充電中は無効化";
+
+    "Brightness" = "明るさ";
+    "Set Brightness" = "明るさを設定";
+
+    "Others" = "その他";
+    "Hide When Low Battery" = "バッテリー残量に応じて無効";
+    "Dismiss Timer" = "指定分数後に非表示";
+    "Label Color" = "文字色を変更";
+}

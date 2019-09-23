@@ -1,0 +1,30 @@
+{
+"Enable" = "Abilita";
+"Some changes require to respring" = "Alcuni cambiamenti richiedo il respring";
+"Options" = "Opzioni";
+"Enable LPM while showing" = "Abilita la LPM mentre è attivo ";
+"Disable while DND" = "Disabilita con il Non Disturbare";
+"Disable while in Pocket" = "Disabilita quando in Tasca";
+"Double tap to unlock" = "Doppio tap per sbloccare";
+"Visual Options" = "Opzioni Visive";
+"Show battery level" = "Mostra percentuale batteria";
+"Show now playing label" = "Mostra testo 'brano corrente'";
+"Icon Fade Animation" = "Animazione dissolvenza dell'icona";
+"Grayscale Icon"  = "Icona in scala di grigi";
+"Change Icon Size" = "Cambia grandezza icona";
+"Change space between icons" = "Cambia spazio tra le icone";
+"Move Labels" = "Sposta i testi";
+"Brightness" = "Luminosità";
+"Report Bugs or Contact" = "Segnala bug o contattami";
+"Buy me a coffee?" = "Offrimi un  caffè?";
+"Paypal" = "Paypal";
+"Respring" = "Respring";
+"Reset All Settings" = "Reimposta tutte le impostazioni";
+"Disable while charging" = "Disabilita mentre in carica";
+"Max Icon Per Rows" = "Icone massime per riga";
+"Move Notification View" = "Sposta le notifiche";
+"Artwork Size" = "Grandezza Artwork";
+"Show Artwork" = "Mostra Artwork";
+"Date" = "Data";
+"Use Native Locale" = "Usa impostazioni locali native";
+}

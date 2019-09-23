@@ -1,0 +1,31 @@
+{
+"Enable" = "Activé";
+"Some changes require to respring" = "Des changements nécessite un respring";
+"Options" = "Options";
+"Enable LPM while showing" = "Activer LPM lors de l'affichage";
+"Disable while DND" = "Désactivé durant DND";
+"Disable while in Pocket" = "Désactivé dans la poche";
+"Double tap to unlock" = "Double tap pour déverrouiller";
+"Visual Options" = "Options visuels";
+"Show battery level" = "Montre niveau batterie";
+"Show now playing label" = "Afficher l'étiquette en cours de lecture";
+"Icon Fade Animation" = "Animation de fondu d'icône";
+"Grayscale Icon"  = "Icône en niveaux de gris";
+"Change Icon Size" = "Changer taille icône";
+"Change space between icons" = "Change l'espace entre les icônes";
+"Move Labels" = "Déplacer noms d'icônes";
+"Brightness" = "Luminosité";
+"Report Bugs or Contact" = "Rapporter erreurs ou Contact";
+"Buy me a coffee?" = "Offrez moi un café?";
+"Paypal" = "Paypal";
+"Respring" = "Respring";
+"Reset All Settings" = "Effacer tous réglages";
+"Disable while charging" = "Désactiver pendant chargement";
+"Max Icon Per Rows" = "Icône maximum par lignes";
+"Move Notification View" = "Déplacer les vues de notification";
+"Artwork Size" = "Taille Artwork";
+"Show Artwork" = "Montrer Artwork";
+"Date" = "Date";
+"Use Native Locale" = "Utiliser l'emplacement local";
+"Change Date Format" = "Changer Format date";
+}

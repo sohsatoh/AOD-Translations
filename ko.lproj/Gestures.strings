@@ -1,0 +1,30 @@
+{
+    "Enable" = "활성화";
+    "Some changes require to respring" = "일부 설정은 리스프링 필요";
+    "Options" = "옵션";
+    "Enable LPM while showing" = "저전력모드 시 활성화";
+    "Disable while DND" = "방해금지모드 시 비활성화";
+    "Disable while in Pocket" = "주머니에 있을 때 비활성화";
+    "Double tap to unlock" = "두번 탭하여 잠금 해제";
+    "Visual Options" = "시각 옵션";
+    "Show battery level" = "배터리 상태 보이기";
+    "Show now playing label" = "현재 재생중인 음악 라벨 보이기";
+    "Icon Fade Animation" = "아이콘 사라짐 애니메이션";
+    "Grayscale Icon"  = "흑백 아이콘";
+    "Change Icon Size" = "아이콘 크기 변경";
+    "Change space between icons" = "아이콘 사이 공간 변경";
+    "Move Labels" = "음악 라벨 위치 이동";
+    "Brightness" = "밝기";
+    "Report Bugs or Contact" = "버그 제보 또는 연락";
+    "Buy me a coffee?" = "개발자에게 기부하기";
+    "Paypal" = "페이팔";
+    "Respring" = "리스프링";
+    "Reset All Settings" = "모든 설정을 기본값으로 돌리기";
+    "Disable while charging" = "충전 중 비활성화";
+    "Max Icon Per Rows" = "한 줄에 최대 아이콘 갯수";
+    "Move Notification View" = "알림내용 위치 이동";
+    "Artwork Size" = "앨범 크기";
+    "Show Artwork" = "앨범 보이기";
+    "Date" = "날짜";
+    "Use Native Locale" = "기본 로캘 사용";
+}
