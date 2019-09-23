@@ -4,7 +4,7 @@
 <dict>
 	<key>Additional Options</key>
 	<string>Дополнительные настройки</string>
-	<key>Allow put the same icon</key>
+	<key>Allow Putting the Same Icon</key>
 	<string>Поставить такую же иконку</string>
 	<key>Analog Clock Position (X)</key>
 	<string>Позиция аналоговых часов (X)</string>
@@ -26,6 +26,8 @@
 	<string>Цвет пузырьков</string>
 	<key>Buy me a coffee?</key>
 	<string>Купите мне кофе?</string>
+	<key>Centralize Components</key>
+	<string>Поставить компоненты по середине</string>
 	<key>Change Date Format</key>
 	<string>Изменить формат даты</string>
 	<key>Change Date Format:</key>
@@ -50,6 +52,8 @@
 	<string>Отключить в кармане</string>
 	<key>Dismiss Timer</key>
 	<string>Пропускать таймер</string>
+	<key>Dots</key>
+	<string>Точки</string>
 	<key>Double</key>
 	<string>Два</string>
 	<key>Double tap to unlock</key>
@@ -64,18 +68,26 @@
 	<string>Включить только во время зарядки</string>
 	<key>Fahrenheit</key>
 	<string>Фаренгейт</string>
+	<key>Gestures</key>
+	<string>Жесты</string>
 	<key>Grayscale Icon</key>
 	<string>Серый оттенок иконки</string>
 	<key>HOWTOUSE</key>
 	<string>Как использовать </string>
-	<key>Icon</key>
-	<string>Иконки</string>
+	<key>Hide When Low Battery</key>
+	<string>Скрыть при низком заряде</string>
 	<key>Icon Badge</key>
 	<string>Бейджи иконки</string>
 	<key>Icon Fade Animation</key>
 	<string>Анимация расцветания иконки</string>
+	<key>Icons</key>
+	<string>Иконки</string>
+	<key>Label Color</key>
+	<string>Цвет подписей</string>
 	<key>Label Color and Alpha</key>
 	<string>Цвет и прозрачность подписей</string>
+	<key>Label Position (X)</key>
+	<string>Позиция подписи (Х)</string>
 	<key>Label Position (Y)</key>
 	<string>Позиция надписи (Y)</string>
 	<key>Max Icon Per Rows</key>
@@ -118,24 +130,40 @@
 	<string>Показать обложку</string>
 	<key>Show Date</key>
 	<string>Показывать дату</string>
+	<key>Show Dots</key>
+	<string>Показывать точки</string>
 	<key>Show Icon Badge</key>
 	<string>Показать бейдж иконки</string>
+	<key>Show Notification Icons</key>
+	<string>Показывать иконки уведомлений</string>
+	<key>Show Now Playing Label</key>
+	<string>Показать название играющей песни</string>
+	<key>Show Time</key>
+	<string>Показать время</string>
 	<key>Show battery level</key>
 	<string>Показать уровень батареи</string>
-	<key>Show now playing label</key>
-	<string>Показать название играющей песни</string>
 	<key>Single</key>
 	<string>Один</string>
+	<key>Size</key>
+	<string>Размер</string>
 	<key>Some changes require to respring</key>
 	<string>Некоторые изменения требуют респринг</string>
+	<key>Swipe Left to Camera</key>
+	<string>Свайп в лево Камера</string>
+	<key>Swipe Right to Flashlight</key>
+	<string>Свайп вправо Фонарик</string>
 	<key>Tap to unlock</key>
 	<string>Разблокировать тапом</string>
+	<key>Test Notification</key>
+	<string>Тестовое уведомление</string>
 	<key>Use AM/PM</key>
 	<string>Использовать ДП/ПП</string>
 	<key>Use Icon Color</key>
 	<string>Использовать цвет иконки</string>
 	<key>Use Native Locale</key>
 	<string>Использовать родной язык</string>
+	<key>Use Randomized Color</key>
+	<string>Случайный цвет</string>
 	<key>Visual Options</key>
 	<string>Визуальные настройки</string>
 	<key>Weather</key>
