@@ -2,7 +2,7 @@
     "Options" = "オプション";
     "Enable LPM while showing" = "低電力モードを有効可";
     "Disable while DND" = "おやすみモード中は無効化";
-    "Disable while in Pocket" = "ポケットにある時無効化";
+    "Disable while Face Down" = "下向きの時無効化";
     "Enable only while charging" = "充電中のみ有効";
     "Disable while charging" = "充電中は無効化";
 
