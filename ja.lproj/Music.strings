@@ -1,6 +1,10 @@
 {
     "Music" = "音楽";
     "Show Now Playing Label" = "再生情報を表示";
+
+    "Default Text" = "デフォルトテキスト";
+    "Save" = "保存";
+
     "Label Position (Y)" = "ラベル位置 (Y)";
 
     "Artwork" = "アートワーク";

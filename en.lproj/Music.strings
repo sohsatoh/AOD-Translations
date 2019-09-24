@@ -1,6 +1,10 @@
 {
     "Music" = "Music";
     "Show Now Playing Label" = "Show Now Playing Label";
+
+    "Default Text" = "Default Text";
+    "Save" = "Save";
+
     "Label Position (Y)" = "Label Position (Y)";
 
     "Artwork" = "Artwork";

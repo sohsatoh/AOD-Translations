@@ -1,4 +1,6 @@
 {
     "Battery" = "Battery";
     "Show battery level" = "Show Battery Level";
+    "Prefix" = "Prefix";
+    "Save" = "Save";
 }

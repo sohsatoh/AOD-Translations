@@ -1,4 +1,6 @@
 {
     "Battery" = "バッテリー";
     "Show battery level" = "バッテリー残量を表示";
+    "Prefix" = "接頭辞";
+    "Save" = "保存";
 }
