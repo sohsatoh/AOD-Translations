@@ -18,10 +18,12 @@
     "Icon Badge" = "アイコンバッジ";
     "Border" = "ボーダー";
 
+    "Test Notification does not show border." = "通知テストではボーダーは表示されません。"
+
     "Extra" = "追加設定";
     "Charging Animation" = "充電アニメーション";
     "Move Elements" = "要素移動";
-    "Test Notification" = "通知のテスト";
+    "Test Notification" = "通知テスト";
 
     "Report Bugs or Contact" = "連絡先";
     "Buy me a coffee?" = "寄付は大歓迎です!";
