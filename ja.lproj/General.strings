@@ -10,6 +10,7 @@
     "Set Brightness" = "明るさを設定";
 
     "Others" = "その他";
+    "Show Statusbar" = "ステータスバーを表示";
     "Hide When Low Battery" = "バッテリー残量に応じて無効";
     "Dismiss Timer" = "指定分数後に非表示";
     "Dismiss Timer (While Charging)" = "指定分数後に非表示 (充電中)";
