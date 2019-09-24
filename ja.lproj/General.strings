@@ -12,5 +12,6 @@
     "Others" = "その他";
     "Hide When Low Battery" = "バッテリー残量に応じて無効";
     "Dismiss Timer" = "指定分数後に非表示";
+    "Dismiss Timer (While Charging)" = "指定分数後に非表示 (充電中)";
     "Label Color" = "文字色を変更";
 }

@@ -11,6 +11,9 @@
 
 "Others" = "Others";
 "Hide When Low Battery" = "Hide When Low Battery";
+
 "Dismiss Timer" = "Dismiss Timer";
+"Dismiss Timer (While Charging)" = "Dismiss Timer (While Charging)";
+
 "Label Color" = "Label Color";
 }
