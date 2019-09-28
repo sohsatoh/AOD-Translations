@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Double</key>
+	<string>Два</string>
+	<key>Gestures</key>
+	<string>Жесты</string>
+	<key>Single</key>
+	<string>Один</string>
+	<key>Size</key>
+	<string>Размер</string>
+	<key>Swipe Left to Camera</key>
+	<string>Свайп в лево Камера</string>
+	<key>Swipe Right to Flashlight</key>
+	<string>Свайп вправо Фонарик</string>
+	<key>Tap to unlock</key>
+	<string>Разблокировать тапом</string>
+</dict>
+</plist>

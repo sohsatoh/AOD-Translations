@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Current Weather: {condition}</key>
+	<string>Текущая Погода: {состояние}</string>
+	<key>Fahrenheit</key>
+	<string>Фаренгейт</string>
+	<key>HOWTOUSE</key>
+	<string>Как использовать </string>
+	<key>Label Position (Y)</key>
+	<string>Позиция надписи (Y)</string>
+	<key>Save</key>
+	<string>Сохранить</string>
+	<key>Show</key>
+	<string>Показать</string>
+	<key>Weather</key>
+	<string>Погода</string>
+</dict>
+</plist>

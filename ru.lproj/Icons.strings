@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Allow Putting the Same Icon</key>
+	<string>Поставить такую же иконку</string>
+	<key>Change Icon Size</key>
+	<string>Изменить размер иконки</string>
+	<key>Change space between icons</key>
+	<string>Изменить размер между иконками</string>
+	<key>Grayscale Icon</key>
+	<string>Серый оттенок иконки</string>
+	<key>Icon Fade Animation</key>
+	<string>Анимация расцветания иконки</string>
+	<key>Icons</key>
+	<string>Иконки</string>
+	<key>Max Icon Per Rows</key>
+	<string>Максимум иконок в строку</string>
+	<key>Show Icon Badge</key>
+	<string>Показать бейдж иконки</string>
+	<key>Show Notification Icons</key>
+	<string>Показывать иконки уведомлений</string>
+</dict>
+</plist>

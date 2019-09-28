@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Analog Clock Position (X)</key>
+	<string>Позиция аналоговых часов (X)</string>
+	<key>Analog Clock Position (Y)</key>
+	<string>Позиция аналоговых часов (Y)</string>
+	<key>Analog Clock Size</key>
+	<string>Размер аналоговых часов</string>
+	<key>Change Date Format</key>
+	<string>Изменить формат даты</string>
+	<key>Change Date Format:</key>
+	<string>Изменить формат даты:</string>
+	<key>Date Format</key>
+	<string>Формат даты:</string>
+	<key>Date and Time</key>
+	<string>Дата и Время</string>
+	<key>Show Analog Clock</key>
+	<string>Аналоговые часы</string>
+	<key>Show Date</key>
+	<string>Показывать дату</string>
+	<key>Show Time</key>
+	<string>Показать время</string>
+	<key>Use AM/PM</key>
+	<string>Использовать ДП/ПП</string>
+	<key>Use Icon Color</key>
+	<string>Использовать цвет иконки</string>
+	<key>Use Native Locale</key>
+	<string>Использовать родной язык</string>
+</dict>
+</plist>

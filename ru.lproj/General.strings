@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Brightness</key>
+	<string>Яркость</string>
+	<key>Disable while DND</key>
+	<string>Отключить во время DND</string>
+	<key>Disable while Face Down</key>
+	<string>Отключить когда перевёрнут</string>
+	<key>Disable while charging</key>
+	<string>Отключить во время зарядки</string>
+	<key>Disable while in Pocket</key>
+	<string>Отключить в кармане</string>
+	<key>Dismiss Timer</key>
+	<string>Пропускать таймер</string>
+	<key>Dismiss Timer (While Charging)</key>
+	<string>Пропустить таймер (во время зарядки)</string>
+	<key>Enable LPM while showing</key>
+	<string>Включить РЭС во время показа</string>
+	<key>Enable only while charging</key>
+	<string>Включить только во время зарядки</string>
+	<key>Hide When Low Battery</key>
+	<string>Скрыть при низком заряде</string>
+	<key>Label Color</key>
+	<string>Цвет подписей</string>
+	<key>Set Brightness</key>
+	<string>Применить яркость</string>
+	<key>Show Statusbar</key>
+	<string>Показать статус бар</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Bubble Color</key>
+	<string>Цвет пузырьков</string>
+	<key>Charging Animation</key>
+	<string>Анимация зарядки</string>
+	<key>Show Animation</key>
+	<string>Показать анимацию</string>
+	<key>Use Randomized Color</key>
+	<string>Случайный цвет</string>
+</dict>
+</plist>

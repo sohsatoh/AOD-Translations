@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Icon Badge</key>
+	<string>Бейджи иконки</string>
+	<key>Reverse Color</key>
+	<string>Обратный цвет</string>
+	<key>Show Icon Badge</key>
+	<string>Показать бейдж иконки</string>
+	<key>Use Icon Color</key>
+	<string>Использовать цвет иконки</string>
+</dict>
+</plist>

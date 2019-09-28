@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Battery</key>
+	<string>Батарея</string>
+	<key>Battery:</key>
+	<string>Батарея</string>
+	<key>Prefix</key>
+	<string>Показатель заряда (пользовательский)</string>
+	<key>Save</key>
+	<string>Сохранить</string>
+	<key>Show battery level</key>
+	<string>Показать уровень батареи</string>
+</dict>
+</plist>
