@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Border</key>
+	<string>Обводка</string>
+	<key>Repeat Count</key>
+	<string>Количество повторений</string>
+	<key>Show</key>
+	<string>Показать</string>
+	<key>Use Icon Color</key>
+	<string>Использовать цвет иконки</string>
+	<key>Use Native Locale</key>
+	<string>Использовать родной язык</string>
+	<key>Use Randomized Color</key>
+	<string>Случайный цвет</string>
+</dict>
+</plist>
