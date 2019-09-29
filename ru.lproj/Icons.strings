@@ -2,171 +2,23 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>Additional Options</key>
-	<string>Дополнительные настройки</string>
 	<key>Allow Putting the Same Icon</key>
 	<string>Поставить такую же иконку</string>
-	<key>Analog Clock Position (X)</key>
-	<string>Позиция аналоговых часов (X)</string>
-	<key>Analog Clock Position (Y)</key>
-	<string>Позиция аналоговых часов (Y)</string>
-	<key>Analog Clock Size</key>
-	<string>Размер аналоговых часов</string>
-	<key>Artwork Position (X)</key>
-	<string>Позиция обложки (Х)</string>
-	<key>Artwork Position (Y)</key>
-	<string>Позиция обложки (Y)</string>
-	<key>Artwork Size</key>
-	<string>Размер обложки</string>
-	<key>Battery</key>
-	<string>Батарея</string>
-	<key>Brightness</key>
-	<string>Яркость</string>
-	<key>Bubble Color</key>
-	<string>Цвет пузырьков</string>
-	<key>Buy me a coffee?</key>
-	<string>Купите мне кофе?</string>
-	<key>Centralize Components</key>
-	<string>Поставить компоненты по середине</string>
-	<key>Change Date Format</key>
-	<string>Изменить формат даты</string>
-	<key>Change Date Format:</key>
-	<string>Изменить формат даты</string>
 	<key>Change Icon Size</key>
 	<string>Изменить размер иконки</string>
 	<key>Change space between icons</key>
 	<string>Изменить размер между иконками</string>
-	<key>Charging Animation</key>
-	<string>Анимация зарядки</string>
-	<key>Current Weather: {condition}</key>
-	<string>Текущая Погода: {состояние}</string>
-	<key>Date Format</key>
-	<string>Формат даты</string>
-	<key>Date and Time</key>
-	<string>Дата и Время</string>
-	<key>Disable while DND</key>
-	<string>Отключить во время DND</string>
-	<key>Disable while charging</key>
-	<string>Отключить во время зарядки</string>
-	<key>Disable while in Pocket</key>
-	<string>Отключить в кармане</string>
-	<key>Dismiss Timer</key>
-	<string>Пропускать таймер</string>
-	<key>Dots</key>
-	<string>Точки</string>
-	<key>Double</key>
-	<string>Два</string>
-	<key>Double tap to unlock</key>
-	<string>Двойной тап для разблокировки</string>
-	<key>EEE, MMMM dd</key>
-	<string>ГГГ, ММММ дд</string>
-	<key>Enable</key>
-	<string>Включить</string>
-	<key>Enable LPM while showing</key>
-	<string>Включить РЭС во время показа</string>
-	<key>Enable only while charging</key>
-	<string>Включить только во время зарядки</string>
-	<key>Fahrenheit</key>
-	<string>Фаренгейт</string>
-	<key>Gestures</key>
-	<string>Жесты</string>
 	<key>Grayscale Icon</key>
 	<string>Серый оттенок иконки</string>
-	<key>HOWTOUSE</key>
-	<string>Как использовать </string>
-	<key>Hide When Low Battery</key>
-	<string>Скрыть при низком заряде</string>
-	<key>Icon Badge</key>
-	<string>Бейджи иконки</string>
 	<key>Icon Fade Animation</key>
 	<string>Анимация расцветания иконки</string>
 	<key>Icons</key>
 	<string>Иконки</string>
-	<key>Label Color</key>
-	<string>Цвет подписей</string>
-	<key>Label Color and Alpha</key>
-	<string>Цвет и прозрачность подписей</string>
-	<key>Label Position (X)</key>
-	<string>Позиция подписи (Х)</string>
-	<key>Label Position (Y)</key>
-	<string>Позиция надписи (Y)</string>
 	<key>Max Icon Per Rows</key>
 	<string>Максимум иконок в строку</string>
-	<key>Move Elements</key>
-	<string>Сдвинуть элементы</string>
-	<key>Move Labels</key>
-	<string>Сдвинуть подписи</string>
-	<key>Move Notification View</key>
-	<string>Сместить окно уведомлений</string>
-	<key>Music</key>
-	<string>Музыка</string>
-	<key>Options</key>
-	<string>Настройки</string>
-	<key>Others</key>
-	<string>Другое</string>
-	<key>Paypal</key>
-	<string>Paypal</string>
-	<key>RESET</key>
-	<string>Сбросить</string>
-	<key>Report Bugs or Contact</key>
-	<string>Сообщайте об ошибках или связаться со мной</string>
-	<key>Reset All Settings</key>
-	<string>Восстановить все настройки</string>
-	<key>Respring</key>
-	<string>Респринг</string>
-	<key>Reverse Color</key>
-	<string>Обратный цвет</string>
-	<key>Save</key>
-	<string>Сохранить</string>
-	<key>Set Brightness</key>
-	<string>Применить яркость</string>
-	<key>Show</key>
-	<string>Показать</string>
-	<key>Show Analog Clock</key>
-	<string>Аналоговые часы</string>
-	<key>Show Animation</key>
-	<string>Показать анимацию</string>
-	<key>Show Artwork</key>
-	<string>Показать обложку</string>
-	<key>Show Date</key>
-	<string>Показывать дату</string>
-	<key>Show Dots</key>
-	<string>Показывать точки</string>
 	<key>Show Icon Badge</key>
 	<string>Показать бейдж иконки</string>
 	<key>Show Notification Icons</key>
 	<string>Показывать иконки уведомлений</string>
-	<key>Show Now Playing Label</key>
-	<string>Показать название играющей песни</string>
-	<key>Show Time</key>
-	<string>Показать время</string>
-	<key>Show battery level</key>
-	<string>Показать уровень батареи</string>
-	<key>Single</key>
-	<string>Один</string>
-	<key>Size</key>
-	<string>Размер</string>
-	<key>Some changes require to respring</key>
-	<string>Некоторые изменения требуют респринг</string>
-	<key>Swipe Left to Camera</key>
-	<string>Свайп в лево Камера</string>
-	<key>Swipe Right to Flashlight</key>
-	<string>Свайп вправо Фонарик</string>
-	<key>Tap to unlock</key>
-	<string>Разблокировать тапом</string>
-	<key>Test Notification</key>
-	<string>Тестовое уведомление</string>
-	<key>Use AM/PM</key>
-	<string>Использовать ДП/ПП</string>
-	<key>Use Icon Color</key>
-	<string>Использовать цвет иконки</string>
-	<key>Use Native Locale</key>
-	<string>Использовать родной язык</string>
-	<key>Use Randomized Color</key>
-	<string>Случайный цвет</string>
-	<key>Visual Options</key>
-	<string>Визуальные настройки</string>
-	<key>Weather</key>
-	<string>Погода</string>
 </dict>
 </plist>
