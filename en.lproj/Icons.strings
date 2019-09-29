@@ -1,6 +1,7 @@
 {
     "Icons" = "Icons";
     "Show Notification Icons" = "Show Notification Icons";
+    "Tap Icon to Show Notification" = "Tap to Show Notification";
     "Icon Fade Animation" = "Icon Fade Animation";
     "Grayscale Icon"  = "Grayscale Icon";
     "Allow Putting the Same Icon" = "Allow Putting the Same Icon";

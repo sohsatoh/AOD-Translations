@@ -1,6 +1,7 @@
 {
     "Icons" = "アイコン";
     "Show Notification Icons" = "アイコンを表示";
+    "Tap Icon to Show Notification" = "アイコンタップで通知を表示";
     "Icon Fade Animation" = "アイコンのアニメーション";
     "Grayscale Icon"  = "白黒アイコン";
     "Allow Putting the Same Icon" = "同じアイコンの配置を許可";

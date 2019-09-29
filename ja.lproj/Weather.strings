@@ -1,6 +1,8 @@
 {
     "Weather" = "天気";
     "Show" = "表示";
+    "Text:" = "テキスト:";
+    "Font Size" = "フォントサイズ";
     "Label Position (Y)" = "ラベル位置 (Y)";
     "Save" = "保存";
     "HOWTOUSE" = "利用可能: {city}, {condition}, {shortCondition}, {windSpeed}, {humidity}, {temp}, {feelsLike}, {high}, {low} \n \\nで改行\nもし'null'と表示される場合は、インターネットへの接続や現在地情報の設定、天気アプリで現在地の利用を許可しているかなど確認してください。";

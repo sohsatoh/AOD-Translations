@@ -3,4 +3,6 @@
     "Show Animation" = "アニメーションを表示";
     "Use Randomized Color" = "ランダムな色を使用";
     "Bubble Color" = "色を設定";
+    "Bubble Amount" = "泡の量";
+    "Changing bubble amount may help saving resource consumption" = "泡の量を変更することでエネルギー消費を抑えることができます";
 }

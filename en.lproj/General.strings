@@ -5,13 +5,16 @@
 "Disable while Face Down" = "Disable while Face Down";
 "Enable only while charging" = "Enable only while charging";
 "Disable while charging" = "Disable while charging";
+"Dismiss when fully charged" = "Dismiss when fully charged";
 
 "Brightness" = "Brightness";
 "Set Brightness" = "Set Brightness";
 
 "Others" = "Others";
+"Disable Pixel Shift" = "Disable Pixel Shift";
 "Show Statusbar" = "Show Statusbar";
 "Hide When Low Battery" = "Hide When Low Battery";
+"Disabling pixel shift may cause burn-in." = "Disabling pixel shift may cause burn-in.";
 
 "Dismiss Timer" = "Dismiss Timer";
 "Dismiss Timer (While Charging)" = "Dismiss Timer (While Charging)";

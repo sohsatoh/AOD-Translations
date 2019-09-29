@@ -1,6 +1,9 @@
 {
     "Battery" = "バッテリー";
     "Show battery level" = "バッテリー残量を表示";
-    "Prefix" = "接頭辞";
+    "Prefix:" = "接頭辞:";
     "Save" = "保存";
+    "Font Size" = "フォントサイズ";
+    "Label Position (Y)" = "ラベル位置 (Y)";
+    "Suffix (While Charging):" = "充電時の接尾辞:";
 }

@@ -11,12 +11,14 @@
 "Battery" = "Battery";
 "Music" = "Music";
 "Weather" = "Weather";
+"Custom Label" = "Custom Label";
 
 "Notifications" = "Notifications";
 "Dots" = "Dots";
 "Icons" = "Icons";
 "Icon Badge" = "Icon Badges";
 "Border" = "Border";
+"Select apps to exclude..." = "Select apps to exclude...";
 
 "Test Notification does not show border." = "Test Notification does not show border.";
 
@@ -26,6 +28,7 @@
 "Test Notification" = "Test Notification";
 
 "Report Bugs or Contact" = "Report Bugs or Contact";
+"Try resetting the settings before contacting me" = "Try resetting the settings before contacting me";
 "Buy me a coffee?" = "Buy me a coffee?";
 "Paypal" = "Paypal";
 "Respring" = "Respring";

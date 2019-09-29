@@ -11,14 +11,16 @@
     "Battery" = "バッテリー";
     "Music" = "音楽";
     "Weather" = "天気";
+    "Custom Label" = "カスタムラベル";
 
     "Notifications" = "通知";
     "Dots" = "ドット";
     "Icons" = "アイコン";
     "Icon Badge" = "アイコンバッジ";
     "Border" = "ボーダー";
+    "Select apps to exclude..." = "表示しないアプリを設定...";
 
-    "Test Notification does not show border." = "通知テストではボーダーは表示されません。"
+    "Test Notification does not show border." = "通知テストではボーダーは表示されません。";
 
     "Extra" = "追加設定";
     "Charging Animation" = "充電アニメーション";
@@ -26,6 +28,7 @@
     "Test Notification" = "通知テスト";
 
     "Report Bugs or Contact" = "連絡先";
+    "Try resetting the settings before contacting me" = "連絡する前に下のボタンから設定のリセットを試してください";
     "Buy me a coffee?" = "寄付は大歓迎です!";
     "Paypal" = "Paypal";
     "Respring" = "Respring";

@@ -2,11 +2,14 @@
     "Date and Time" = "Date and Time";
     "Show Time" = "Show Time";
     "Show Date" = "Show Date";
+    "Show Stock Time" = "Show Stock Time";
     "Show Analog Clock" = "Show Analog Clock";
     "Use Native Locale" = "Use Native Locale";
     "Use AM/PM" = "Use AM/PM";
     "Change Date Format" = "Change Date Format";
-    "Date Format" = "Date Format";
+    "Date Format:" = "Date Format:";
+    "Time Font Size" = "Time Font Size";
+    "Date Font Size" = "Date Font Size";
     "Analog Clock Size" = "Analog Clock Size";
     "Analog Clock Position (X)" = "Analog Clock Position (X)";
     "Analog Clock Position (Y)" = "Analog Clock Position (Y)";

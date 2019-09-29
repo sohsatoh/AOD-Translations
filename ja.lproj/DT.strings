@@ -2,11 +2,14 @@
     "Date and Time" = "日付と時間";
     "Show Time" = "時間を表示";
     "Show Date" = "日付を表示";
+    "Show Stock Time" = "ロック画面上の時計を表示";
     "Show Analog Clock" = "アナログ時計を表示";
     "Use Native Locale" = "デフォルトの言語を使用";
     "Use AM/PM" = "AM/PM表記";
     "Change Date Format" = "日付表示を変更";
-    "Date Format" = "日付フォーマット";
+    "Date Format:" = "日付フォーマット:";
+    "Time Font Size" = "時間のフォントサイズ";
+    "Date Font Size" = "日付のフォントサイズ";
     "Analog Clock Size" = "アナログ時計のサイズ";
     "Analog Clock Position (X)" = "アナログ時計の横位置";
     "Analog Clock Position (Y)" = "アナログ時計の縦位置";

@@ -3,4 +3,6 @@
     "Show Animation" = "Show Animation";
     "Use Randomized Color" = "Use Randomized Color";
     "Bubble Color" = "Bubble Color";
+    "Bubble Amount" = "Bubble Amount";
+    "Changing bubble amount may help saving resource consumption" = "Changing bubble amount may help saving resource consumption";
 }
