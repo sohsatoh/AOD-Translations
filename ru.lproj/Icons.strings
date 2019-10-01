@@ -20,5 +20,7 @@
 	<string>Показать бейдж иконки</string>
 	<key>Show Notification Icons</key>
 	<string>Показывать иконки уведомлений</string>
+	<key>Tap Icon to Show Notification</key>
+	<string>Тап на иконку покажет уведомление</string>
 </dict>
 </plist>
