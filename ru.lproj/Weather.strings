@@ -7,7 +7,9 @@
 	<key>Fahrenheit</key>
 	<string>Фаренгейт</string>
 	<key>HOWTOUSE</key>
-	<string>Available: {city}, {condition}, {shortCondition}, {windSpeed}, {humidity}, {temp}, {feelsLike}, {high}, {low} \n \\n to line break\nIf it shows 'null', you may have to enable location service for system and weather app, and setting from weather app.</string>
+	<string>Доступно: {city}, {condition}, {shortCondition}, {windSpeed}, {humidity}, {temp}, {feelsLike}, {high}, {low} 
+\n для разрыва строки. 
+Если отображается «null», вам возможно потребуется включить службу определения местоположения для приложения погоды.</string>
 	<key>Label Position (Y)</key>
 	<string>Позиция надписи (Y)</string>
 	<key>Save</key>

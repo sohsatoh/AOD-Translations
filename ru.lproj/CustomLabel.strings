@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CUSTOM LABEL</key>
+	<string>Пользовательская надпись</string>
+	<key>Custom Label</key>
+	<string>Пользовательская надпись</string>
+	<key>Enter here...</key>
+	<string>Введите текст здесь…</string>
+	<key>Font Size</key>
+	<string>Размер шрифта</string>
+	<key>Label Position (X)</key>
+	<string>Позиция подписи (Х)</string>
+	<key>Label Position (Y)</key>
+	<string>Позиция подписи (Y)</string>
+	<key>Save</key>
+	<string>Сохранить</string>
+	<key>Show</key>
+	<string>Показать</string>
+</dict>
+</plist>

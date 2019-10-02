@@ -20,6 +20,8 @@
 	<string>Аналоговые часы</string>
 	<key>Show Date</key>
 	<string>Показывать дату</string>
+	<key>Show Stock Time</key>
+	<string>Показать стандартное время</string>
 	<key>Show Time</key>
 	<string>Показать время</string>
 	<key>Use AM/PM</key>

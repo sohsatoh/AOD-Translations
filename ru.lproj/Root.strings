@@ -10,6 +10,8 @@
 	<string>Купите мне кофе?</string>
 	<key>Charging Animation</key>
 	<string>Анимация зарядки</string>
+	<key>Custom Label</key>
+	<string>Пользовательская надпись</string>
 	<key>Date and Time</key>
 	<string>Дата и Время</string>
 	<key>Dots</key>
@@ -44,6 +46,8 @@
 	<string>Восстановить все настройки</string>
 	<key>Respring</key>
 	<string>Респринг</string>
+	<key>Select apps to exclude...</key>
+	<string>Исключение приложений</string>
 	<key>Some changes require to respring</key>
 	<string>Некоторые изменения требуют респринг</string>
 	<key>Test Notification</key>
