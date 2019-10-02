@@ -34,6 +34,8 @@
 	<string>Другое</string>
 	<key>Set Brightness</key>
 	<string>Применить яркость</string>
+    <key>Brightness While Charging</key>
+    <string>Яркость (во время зарядки)</string>
 	<key>Show Statusbar</key>
 	<string>Показать статус бар</string>
 </dict>

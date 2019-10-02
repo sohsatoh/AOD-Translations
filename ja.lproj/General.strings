@@ -13,6 +13,7 @@
 
     "Brightness" = "明るさ";
     "Set Brightness" = "明るさを設定";
+    "Brightness While Charging" = "充電中の明るさ";
 
     "Others" = "その他";
     "Show Statusbar" = "ステータスバーを表示";
