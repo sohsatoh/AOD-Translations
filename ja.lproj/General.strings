@@ -1,5 +1,9 @@
 {
     "Options" = "オプション";
+
+    "Show XenHTML" = "XenHTMLを表示";
+    "Show LockPlus Pro" = "LockPlus Proを表示";
+
     "Enable LPM while showing" = "低電力モードを有効可";
     "Disable while DND" = "おやすみモード中は無効化";
     "Disable while Face Down" = "下向きの時無効化";
@@ -17,5 +21,10 @@
     "Dismiss Timer" = "指定分数後に非表示";
     "Dismiss Timer (While Charging)" = "指定分数後に非表示 (充電中)";
     "Label Color" = "文字色を変更";
+
+    "Font" = "フォント";
+    "Select Font" = "フォントを選択";
+    "Default font: AppleSDGothicNeo-Light" = "デフォルトフォント: AppleSDGothicNeo-Light";
+
     "Disabling pixel shift may cause burn-in." = "焼付き防止を無効化するとピクセルシフトしなくなりますが、焼付きの可能性が上昇する恐れがあります。";
 }

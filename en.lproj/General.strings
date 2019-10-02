@@ -1,5 +1,9 @@
 {
 "Options" = "Options";
+
+"Show XenHTML" = "Show XenHTML";
+"Show LockPlus Pro" = "Show LockPlus Pro";
+
 "Enable LPM while showing" = "Enable LPM while showing";
 "Disable while DND" = "Disable while DND";
 "Disable while Face Down" = "Disable while Face Down";
@@ -18,6 +22,10 @@
 
 "Dismiss Timer" = "Dismiss Timer";
 "Dismiss Timer (While Charging)" = "Dismiss Timer (While Charging)";
+
+"Font" = "Font";
+"Select Font" = "Select Font";
+"Default font: AppleSDGothicNeo-Light" = "Default font: AppleSDGothicNeo-Light";
 
 "Label Color" = "Label Color";
 }
