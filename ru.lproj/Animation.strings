@@ -2,8 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>Bubble Amount</key>
+	<string>Количество пузырьков</string>
 	<key>Bubble Color</key>
 	<string>Цвет пузырьков</string>
+	<key>Changing bubble amount may help saving resource consumption</key>
+	<string>Изменение количества пузырьков может помочь сэкономить потребление ресурсов</string>
 	<key>Charging Animation</key>
 	<string>Анимация зарядки</string>
 	<key>Show Animation</key>

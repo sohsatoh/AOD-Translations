@@ -6,10 +6,12 @@
 	<string>Батарея</string>
 	<key>Battery:</key>
 	<string>Батарея</string>
+	<key>Font Size</key>
+	<string>Размер шрифта</string>
 	<key>Label Position (Y)</key>
 	<string>Позиция подписи (Y)</string>
-	<key>Prefix</key>
-	<string>Пользовательский текст</string>
+	<key>Prefix:</key>
+	<string>Пользовательский текст:</string>
 	<key>Save</key>
 	<string>Сохранить</string>
 	<key>Show battery level</key>

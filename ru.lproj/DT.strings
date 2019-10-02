@@ -12,6 +12,8 @@
 	<string>Изменить формат даты</string>
 	<key>Change Date Format:</key>
 	<string>Изменить формат даты:</string>
+	<key>Date Font Size</key>
+	<string>Размер шрифта даты</string>
 	<key>Date Format</key>
 	<string>Формат даты:</string>
 	<key>Date and Time</key>
@@ -24,6 +26,8 @@
 	<string>Показать стандартное время</string>
 	<key>Show Time</key>
 	<string>Показать время</string>
+	<key>Time Font Size</key>
+	<string>Размер шрифта времени</string>
 	<key>Use AM/PM</key>
 	<string>Использовать ДП/ПП</string>
 	<key>Use Icon Color</key>

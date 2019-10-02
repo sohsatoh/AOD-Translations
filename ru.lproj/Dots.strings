@@ -4,6 +4,8 @@
 <dict>
 	<key>Dots</key>
 	<string>Точки</string>
+	<key>Dots Position (Y)</key>
+	<string>Позиция точек (Y)</string>
 	<key>Show Dots</key>
 	<string>Показывать точки</string>
 	<key>Size</key>

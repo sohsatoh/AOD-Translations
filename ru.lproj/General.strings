@@ -30,7 +30,7 @@
 	<string>Скрыть при низком заряде</string>
 	<key>Label Color</key>
 	<string>Цвет подписей</string>
-	<key>OTHERS</key>
+	<key>Others</key>
 	<string>Другое</string>
 	<key>Set Brightness</key>
 	<string>Применить яркость</string>
