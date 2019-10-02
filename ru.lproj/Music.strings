@@ -10,8 +10,10 @@
 	<string>Позиция обложки (Y)</string>
 	<key>Artwork Size</key>
 	<string>Размер обложки</string>
-	<key>Default Text</key>
-	<string>Стандартный текст</string>
+	<key>Default Text:</key>
+	<string>Стандартный текст:</string>
+	<key>Font Size</key>
+	<string>Размер шрифта</string>
 	<key>Label Position (Y)</key>
 	<string>Позиция подписи (Y)</string>
 	<key>Music</key>
