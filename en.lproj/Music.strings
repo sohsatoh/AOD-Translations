@@ -13,4 +13,10 @@
     "Artwork Position (X)" = "Artwork Position (X)";
     "Artwork Position (Y)" = "Artwork Position (Y)";
     "Font Size" = "Font Size";
+
+    "Media Controls" = "Media Controls";
+    "Show Media Controls" = "Show Media Controls";
+    "Linear Style" = "Linear Style";
+    "Size" = "Size";
+    "Space Between Buttons" = "Space Between Buttons";
 }

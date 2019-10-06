@@ -13,4 +13,10 @@
     "Artwork Size" = "アートワークのサイズ";
     "Artwork Position (X)" = "アートワーク位置 (X)";
     "Artwork Position (Y)" = "アートワーク位置 (Y)";
+
+    "Media Controls" = "コントローラー";
+    "Show Media Controls" = "コントローラーを表示";
+    "Linear Style" = "線形アイコンを使用";
+    "Size" = "サイズ";
+    "Space Between Buttons" = "ボタン間の空白を調整";
 }
