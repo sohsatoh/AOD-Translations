@@ -16,6 +16,7 @@
 
     "Media Controls" = "コントローラー";
     "Show Media Controls" = "コントローラーを表示";
+    "Hide if no now playing apps" = "再生中のアプリがない場合非表示";
     "Linear Style" = "線形アイコンを使用";
     "Size" = "サイズ";
     "Space Between Buttons" = "ボタン間の空白を調整";

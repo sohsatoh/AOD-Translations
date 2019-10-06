@@ -6,8 +6,8 @@
 
 "Enable LPM while showing" = "Enable LPM while showing";
 "Disable while DND" = "Disable while DND";
-"Disable in Pocket" = "Disable in Pocket";
-"Enable when taken out from pocket" = "Enable when taken out from pocket";
+"Dismiss in Pocket" = "Dismiss in Pocket";
+"Reshow when taken out from pocket" = "Reshow when taken out from pocket";
 "Enable only while charging" = "Enable only while charging";
 "Disable while charging" = "Disable while charging";
 "Dismiss when fully charged" = "Dismiss when fully charged";

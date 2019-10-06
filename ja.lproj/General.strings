@@ -6,8 +6,8 @@
 
     "Enable LPM while showing" = "低電力モードを有効可";
     "Disable while DND" = "おやすみモード中は無効化";
-    "Disable in Pocket" = "ポケットの中で無効化";
-    "Enable when taken out from pocket" = "ポケットから出したら有効化";
+    "Dismiss in Pocket" = "ポケットの中で非表示";
+    "Reshow when taken out from pocket" = "ポケットから出したら再表示";
     "Enable only while charging" = "充電中のみ有効";
     "Disable while charging" = "充電中は無効化";
     "Dismiss when fully charged" = "フル充電で無効化";
