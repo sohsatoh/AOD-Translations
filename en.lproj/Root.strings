@@ -11,7 +11,9 @@
 "Battery" = "Battery";
 "Music" = "Music";
 "Weather" = "Weather";
+"Alarm Label" = "Alarm Label";
 "Custom Label" = "Custom Label";
+"Label Color" = "Label Color";
 
 "Notifications" = "Notifications";
 "Dots" = "Dots";

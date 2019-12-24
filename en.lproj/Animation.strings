@@ -1,8 +1,14 @@
 {
+    "Bubble Animation" = "Bubble Animation";
+    "Show Liquid" = "Show Liquid";
+    "Liquid Color" = "Liquid Color";
+    "Liquid Alpha" = "Liquid Alpha";
+    "Hide Liquid Animation when Fully Charged" = "Hide Liquid Animation when Fully Charged";
+    "Show Bubble" = "Show Bubble";
     "Charging Animation" = "Charging Animation";
-    "Show Animation" = "Show Animation";
     "Use Randomized Color" = "Use Randomized Color";
     "Bubble Color" = "Bubble Color";
     "Bubble Amount" = "Bubble Amount";
     "Changing bubble amount may help saving resource consumption" = "Changing bubble amount may help saving resource consumption";
+    "Enable 'Hide Liquid Animation when Fully Charged' option to avoid burn-in" = "'Enable 'Hide Liquid Animation when Fully Charged' option to avoid burn-in'";
 }

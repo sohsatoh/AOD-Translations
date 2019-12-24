@@ -1,8 +1,14 @@
 {
+    "Bubble Animation" = "バブルアニメーション";
+    "Show Liquid" = "リキッドを表示";
+    "Liquid Color" = "リキッドの色";
+    "Liquid Alpha" = "リキッドの透明度";
+    "Hide Liquid Animation when Fully Charged" = "満充電で非表示(推奨)";
+    "Show Bubble" = "泡を表示";
     "Charging Animation" = "充電アニメーション";
-    "Show Animation" = "アニメーションを表示";
     "Use Randomized Color" = "ランダムな色を使用";
     "Bubble Color" = "色を設定";
     "Bubble Amount" = "泡の量";
     "Changing bubble amount may help saving resource consumption" = "泡の量を変更することでエネルギー消費を抑えることができます";
+    "Enable 'Hide Liquid Animation when Fully Charged' option to avoid burn-in" = "'満充電で非表示オプションを有効化して、焼付きを防止してください'";
 }

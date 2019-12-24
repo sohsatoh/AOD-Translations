@@ -6,23 +6,26 @@
 
     "Enable LPM while showing" = "低電力モードを有効可";
     "Disable while DND" = "おやすみモード中は無効化";
-    "Dismiss in Pocket" = "ポケットの中で非表示";
-    "Reshow when taken out from pocket" = "ポケットから出したら再表示";
     "Enable only while charging" = "充電中のみ有効";
     "Disable while charging" = "充電中は無効化";
     "Dismiss when fully charged" = "フル充電で無効化";
+    "No wakeup animation" = "アンロック時のアニメーションを無効化";
 
     "Brightness" = "明るさ";
     "Set Brightness" = "明るさを設定";
     "Brightness While Charging" = "充電中の明るさ";
 
+    "Proximity Sensor" = "近接センサー";
+    "Dismiss in Pocket" = "ポケットの中で非表示";
+    "Reshow when taken out from pocket" = "ポケットから出したら再表示";
+
     "Others" = "その他";
     "Show Statusbar" = "ステータスバーを表示";
+    "Show Passcode View When Dismissed" = "アンロック時にパスワード入力画面を表示";
     "Disable Pixel Shift" = "焼付き防止を無効";
     "Hide When Low Battery" = "バッテリー残量に応じて無効";
     "Dismiss Timer" = "指定分数後に非表示";
     "Dismiss Timer (While Charging)" = "指定分数後に非表示 (充電中)";
-    "Label Color" = "文字色を変更";
 
     "Font" = "フォント";
     "Select Font" = "フォントを選択";

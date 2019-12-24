@@ -4,10 +4,9 @@
 "Show XenHTML" = "Show XenHTML";
 "Show LockPlus Pro" = "Show LockPlus Pro";
 
+"No wakeup animation" = "No wakeup animation";
 "Enable LPM while showing" = "Enable LPM while showing";
 "Disable while DND" = "Disable while DND";
-"Dismiss in Pocket" = "Dismiss in Pocket";
-"Reshow when taken out from pocket" = "Reshow when taken out from pocket";
 "Enable only while charging" = "Enable only while charging";
 "Disable while charging" = "Disable while charging";
 "Dismiss when fully charged" = "Dismiss when fully charged";
@@ -15,6 +14,10 @@
 "Brightness" = "Brightness";
 "Set Brightness" = "Set Brightness";
 "Brightness While Charging" = "Brightness While Charging";
+
+"Proximity Sensor" = "Proximity Sensor";
+"Dismiss in Pocket" = "Dismiss in Pocket";
+"Reshow when taken out from pocket" = "Reshow when taken out from pocket";
 
 "Others" = "Others";
 "Disable Pixel Shift" = "Disable Pixel Shift";
@@ -29,5 +32,4 @@
 "Select Font" = "Select Font";
 "Default font: AppleSDGothicNeo-Light" = "Default font: AppleSDGothicNeo-Light";
 
-"Label Color" = "Label Color";
 }

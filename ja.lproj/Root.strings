@@ -11,7 +11,10 @@
     "Battery" = "バッテリー";
     "Music" = "音楽";
     "Weather" = "天気";
+    "Alarm Label" = "アラーム";
     "Custom Label" = "カスタムラベル";
+    "Label Color" = "文字色を変更";
+
 
     "Notifications" = "通知";
     "Dots" = "ドット";
