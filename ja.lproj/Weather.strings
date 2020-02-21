@@ -6,4 +6,5 @@
     "Label Position (Y)" = "ラベル位置 (Y)";
     "Save" = "保存";
     "HOWTOUSE" = "利用可能: {city}, {condition}, {shortCondition}, {windSpeed}, {humidity}, {temp}, {feelsLike}, {high}, {low} \n \\nで改行\nもし'null'と表示される場合は、インターネットへの接続や現在地情報の設定、天気アプリで現在地の利用を許可しているかなど確認してください。";
+    "To show Fahrenheit value, you have to set it from stock Weather app" = "華氏を表示するには、天気アプリから設定を変更する必要があります";
 }

@@ -5,6 +5,7 @@
     "Options" = "オプション";
     "General" = "一般";
     "Gestures" = "ジェスチャー";
+    "To use 'raise to wake' option, you should enable it from 'Display and Brightness' settings" = "'持ち上げてスリープ解除'するには、設定アプリのディスプレイの設定から有効化する必要があります";
 
     "Labels" = "ラベル";
     "Date and Time" = "日付と時間";

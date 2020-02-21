@@ -4,4 +4,8 @@
     "Use Randomized Color" = "ランダムな色を使用";
     "Dots Position (Y)" = "ドットの位置 (Y)";
     "Size" = "サイズ";
+
+    "Pulse Effect" = "パルスエフェクト";
+    "Pulse Repeat Count" = "繰り返し回数";
+    "0 to repeat infinity" = "無限にするには0を入力してください";
 }

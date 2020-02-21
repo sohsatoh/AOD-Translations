@@ -4,4 +4,8 @@
     "Use Randomized Color" = "Use Randomized Color";
     "Dots Position (Y)" = "Dots Position (Y)";
     "Size" = "Size";
+
+    "Pulse Effect" = "Pulse Effect";
+    "Pulse Repeat Count" = "Pulse Repeat Count";
+    "0 to repeat infinity" = "0 to repeat infinity";
 }
