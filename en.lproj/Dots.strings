@@ -6,6 +6,9 @@
     "Size" = "Size";
 
     "Pulse Effect" = "Pulse Effect";
-    "Pulse Repeat Count" = "Pulse Repeat Count";
+    "Size" = "Size";
+    "Duration" = "Duration";
+    "Interval" = "Interval";
+    "Repeat Count" = "Repeat Count";
     "0 to repeat infinity" = "0 to repeat infinity";
 }

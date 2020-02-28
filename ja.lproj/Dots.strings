@@ -6,6 +6,9 @@
     "Size" = "サイズ";
 
     "Pulse Effect" = "パルスエフェクト";
-    "Pulse Repeat Count" = "繰り返し回数";
+    "Size" = "サイズ";
+    "Duration" = "長さ";
+    "Interval" = "間隔";
+    "Repeat Count" = "繰り返し回数";
     "0 to repeat infinity" = "無限にするには0を入力してください";
 }
