@@ -3,6 +3,9 @@
     "Tap to unlock" = "Tap to unlock";
     "Single" = "Single";
     "Double" = "Double";
+    "Swipe Up to Unlock" = "Swipe Up to Unlock";
     "Swipe Right to Flashlight" = "Swipe Right to Flashlight";
     "Swipe Left to Camera" = "Swipe Left to Camera";
+    "Lift to wake" = "Lift to wake";
+    "To use lift to wake feature, you have to enable it on stock iOS settings" = "To use lift to wake feature, you have to enable it on stock iOS settings";
 }

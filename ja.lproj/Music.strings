@@ -1,5 +1,12 @@
 {
     "Music" = "音楽";
+
+    "Show Stock Player" = "ストックのプレイヤーを表示";
+    "Position (X)" = "横位置";
+    "Position (Y)" = "縦位置";
+
+    "AOD's Player" = "AODのプレイヤーを表示";
+
     "Show Now Playing Label" = "再生情報を表示";
 
     "Default Text:" = "デフォルトテキスト:";

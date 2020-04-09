@@ -19,10 +19,15 @@
     "Dismiss in Pocket" = "ポケットの中で非表示";
     "Reshow when taken out from pocket" = "ポケットから出したら再表示";
 
+    "Pixel Shift" = "ピクセルシフト";
+    "Shift Value (per minute)" = "シフトする値 (分毎)";
+    "Reset After (minute)" = "指定分後にリセット (分)";
+    "Disable Pixel Shift" = "焼付き防止を無効";
+    "Disabling pixel shift may cause burn-in." = "焼付き防止を無効化するとピクセルシフトしなくなりますが、焼付きの可能性が上昇する恐れがあります。";
+
     "Others" = "その他";
     "Show Statusbar" = "ステータスバーを表示";
     "Show Passcode View When Dismissed" = "アンロック時にパスワード入力画面を表示";
-    "Disable Pixel Shift" = "焼付き防止を無効";
     "Hide When Low Battery" = "バッテリー残量に応じて無効";
     "Dismiss Timer" = "指定分数後に非表示";
     "Dismiss Timer (While Charging)" = "指定分数後に非表示 (充電中)";
@@ -30,6 +35,4 @@
     "Font" = "フォント";
     "Select Font" = "フォントを選択";
     "Default font: AppleSDGothicNeo-Light" = "デフォルトフォント: AppleSDGothicNeo-Light";
-
-    "Disabling pixel shift may cause burn-in." = "焼付き防止を無効化するとピクセルシフトしなくなりますが、焼付きの可能性が上昇する恐れがあります。";
 }

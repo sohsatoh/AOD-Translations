@@ -18,6 +18,7 @@
 
 
     "Notifications" = "通知";
+    "Use Default Icon" = "デフォルトのアイコンを使用";
     "Dots" = "ドット";
     "Icons" = "アイコン";
     "Icon Badge" = "アイコンバッジ";
@@ -31,10 +32,17 @@
     "Move Elements" = "要素移動";
     "Test Notification" = "通知テスト";
 
+    "Backup and Restore" = "バックアップとリストア";
+    "Backup" = "バックアップ";
+    "Restore" = "リストア";
+
     "Report Bugs or Contact" = "連絡先";
     "Try resetting the settings before contacting me" = "連絡する前に下のボタンから設定のリセットを試してください";
     "Buy me a coffee?" = "寄付は大歓迎です!";
     "Paypal" = "Paypal";
+
+    "Help translating" = "翻訳を手助けする";
+
     "Respring" = "Respring";
     "Reset All Settings" = "すべての設定をリセット";
 }
