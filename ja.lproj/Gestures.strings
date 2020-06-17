@@ -3,6 +3,9 @@
     "Tap to unlock" = "タップでアンロック";
     "Single" = "シングル";
     "Double" = "ダブル";
+    "Swipe Up to Unlock" = "上スワイプでアンロック";
     "Swipe Right to Flashlight" = "右スワイプでフラッシュライト";
     "Swipe Left to Camera" = "左スワイプでカメラ";
+    "Lift to wake" = "持ち上げてスリープ解除";
+    "To use lift to wake feature, you have to enable it on stock iOS settings" = "持ち上げてスリープ解除するには、iOSの設定から有効化する必要があります";
 }

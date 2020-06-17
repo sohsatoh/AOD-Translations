@@ -19,11 +19,15 @@
 "Dismiss in Pocket" = "Dismiss in Pocket";
 "Reshow when taken out from pocket" = "Reshow when taken out from pocket";
 
-"Others" = "Others";
+"Pixel Shift" = "Pixel Shift";
+"Shift Value (per minute)" = "Shift Value (per minute)";
+"Reset After (minute)" = "Reset After (minute)";
 "Disable Pixel Shift" = "Disable Pixel Shift";
+"Disabling pixel shift may cause burn-in." = "Disabling pixel shift may cause burn-in.";
+
+"Others" = "Others";
 "Show Statusbar" = "Show Statusbar";
 "Hide When Low Battery" = "Hide When Low Battery";
-"Disabling pixel shift may cause burn-in." = "Disabling pixel shift may cause burn-in.";
 
 "Dismiss Timer" = "Dismiss Timer";
 "Dismiss Timer (While Charging)" = "Dismiss Timer (While Charging)";

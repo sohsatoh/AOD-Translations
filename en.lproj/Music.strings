@@ -1,5 +1,13 @@
 {
     "Music" = "Music";
+    "Stock Player" = "Stock Player";
+    "Show Stock Player" = "Show Stock Player";
+    "Position (X)" = "Position (X)";
+    "Position (Y)" = "Position (Y)";
+
+    "AOD's Player" = "AOD's Player";
+
+
     "Show Now Playing Label" = "Show Now Playing Label";
 
     "Default Text:" = "Default Text:";

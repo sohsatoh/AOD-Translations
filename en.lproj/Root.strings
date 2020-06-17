@@ -17,6 +17,7 @@
 "Label Color" = "Label Color";
 
 "Notifications" = "Notifications";
+"Use Default Icon" = "Use Default Icon";
 "Dots" = "Dots";
 "Icons" = "Icons";
 "Icon Badge" = "Icon Badges";
@@ -30,10 +31,15 @@
 "Move Elements" = "Move Elements";
 "Test Notification" = "Test Notification";
 
+"Backup and Restore" = "Backup and Restore";
+"Backup" = "Backup";
+"Restore" = "Restore";
+
 "Report Bugs or Contact" = "Report Bugs or Contact";
 "Try resetting the settings before contacting me" = "Try resetting the settings before contacting me";
 "Buy me a coffee?" = "Buy me a coffee?";
 "Paypal" = "Paypal";
+"Help translating" = "Help translating";
 "Respring" = "Respring";
 "Reset All Settings" = "Reset All Settings";
 }
